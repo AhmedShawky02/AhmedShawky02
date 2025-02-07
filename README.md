@@ -4,7 +4,7 @@
 <hr>
 
 <h3 align="left">Technologies and Tools I Work With : </h3>
-<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVsajdpZDg0amY4OXRsbjVscTVlemNpaXJ2ZDhxZmhpdnJ5cmpjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif"  />
+<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW1vcGFta2xmY3M1NWs1MjB6OWV0eThxOG52ajRlNzdvYXJreHQ0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
 
 ###
 
