@@ -7,13 +7,13 @@
 ###
 
 <p align="left">
-💻 Software Developer specialized in building robust web applications using <b>C# and .NET Core</b>.<br>
-🌐 Experienced in developing <b>RESTful APIs</b> with <b>ASP.NET Core</b>.<br>
-🗄️ Strong expertise in database management using <b>Microsoft SQL Server</b> and <b>Entity Framework</b>.<br>
-📊 Skilled in data access with <b>ADO.NET</b>.<br>
-📈 Experience in developing <b>project management</b> and <b>investment portfolio</b> systems with a focus on <b>security and performance</b>.<br>
-🧩 Passionate about <b>problem-solving</b> and <b>continuous learning</b> in software development and technology.<br>
-🚀 Always eager to enhance my skills and stay up to date with the latest tech trends!
+💻 Software Developer specialized in building robust web applications using <b>C# and .NET Core</b>.<br><br>
+🌐 Experienced in developing <b>RESTful APIs</b> with <b>ASP.NET Core</b>.<br><br>
+🗄️ Strong expertise in database management using <b>Microsoft SQL Server</b> and <b>Entity Framework</b>.<br><br>
+📊 Skilled in data access with <b>ADO.NET</b>.<br><br>
+📈 Experience in developing <b>project management</b> and <b>investment portfolio</b> systems with a focus on <b>security and performance</b>.<br><br>
+🧩 Passionate about <b>problem-solving</b> and <b>continuous learning</b> in software development and technology.<br><br>
+🚀 Always eager to enhance my skills and stay up to date with the latest tech trends!<br>
 </p>
 
 ###
