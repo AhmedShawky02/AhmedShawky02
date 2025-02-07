@@ -26,6 +26,11 @@
 
 <br>
 
+<div align="left">
+  <img width="60" />
+  <img width="60" />
+</div>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
