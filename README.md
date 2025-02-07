@@ -2,13 +2,14 @@
 <h3 align="center">Experienced developer skilled in C#, .NET Core, and ASP.NET RESTful APIs. Proficient in database management with SQL Server, T-SQL, Entity Framework, and ADO.NET for data access.</h3>
 
 <hr>
+<br>
+<br>
+<br>
 
 <h3 align="left">I code with: </h3>
 <img align="right" height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW1vcGFta2xmY3M1NWs1MjB6OWV0eThxOG52ajRlNzdvYXJreHQ0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
 
-<br>
-<br>
-<br>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
