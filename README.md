@@ -18,6 +18,11 @@
 
 ###
 
+<div align="left">
+  <img width="60" />
+  <img width="60" />
+  <img width="60" />
+</div>
 
 <hr>
 
