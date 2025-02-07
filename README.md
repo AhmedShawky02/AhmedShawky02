@@ -1,6 +1,24 @@
 <h1 align="center">Welcome! 😊 I'm Ahmed Shawky</h1>
 <h3 align="center">Experienced developer skilled in C#, .NET Core, and ASP.NET RESTful APIs. Proficient in database management with SQL Server, T-SQL, Entity Framework, and ADO.NET for data access.</h3>
 
+
+<h2 align="left">About Me 🚀</h2>
+
+###
+
+<p align="left">
+💻 Software Developer specialized in building robust web applications using <b>C# and .NET Core</b>.<br>
+🌐 Experienced in developing <b>RESTful APIs</b> with <b>ASP.NET Core</b>.<br>
+🗄️ Strong expertise in database management using <b>Microsoft SQL Server</b> and <b>Entity Framework</b>.<br>
+📊 Skilled in data access with <b>ADO.NET</b>.<br>
+📈 Experience in developing <b>project management</b> and <b>investment portfolio</b> systems with a focus on <b>security and performance</b>.<br>
+🧩 Passionate about <b>problem-solving</b> and <b>continuous learning</b> in software development and technology.<br>
+🚀 Always eager to enhance my skills and stay up to date with the latest tech trends!
+</p>
+
+###
+
+
 <hr>
 
 <h3 align="left">I code with: </h3>
