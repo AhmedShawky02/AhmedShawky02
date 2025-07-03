@@ -1,5 +1,4 @@
-<h1 align="center">Hello Friend.</h1>
-<h2 align="center">I'm Ahmed Shawky</h2>
+<h1 align="center">Hello Friend, I'm Ahmed Shawky</h1>
 <h3 align="center">Experienced developer skilled in C#, .NET Core, and ASP.NET RESTful APIs. Proficient in database management with SQL Server, T-SQL, Entity Framework, and ADO.NET for data access.</h3>
 
 
