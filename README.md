@@ -16,50 +16,6 @@
 
 ###
 
-
-
-<hr>
-
-<h3 align="left">I code with: </h3>
-<img align="right" height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW1vcGFta2xmY3M1NWs1MjB6OWV0eThxOG52ajRlNzdvYXJreHQ0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
-
-<br>
-
-<div align="left">
-  <img width="60" />
-  <img width="60" />
-</div>
-
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
-  <img width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" alt="dotnetcore logo"  />
-  <img width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="microsoftsqlserver logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
-  <img width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-    <img width="60" />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-
-</div>
-<br>
-
 <hr>
 
 <h3 align="left">Connect with me :</h3>
