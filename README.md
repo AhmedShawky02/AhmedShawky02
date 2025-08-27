@@ -1,19 +1,16 @@
 <h1 align="center">Hello Friend, I'm Ahmed Shawky</h1>
-<h3 align="center">Experienced developer skilled in C#, .NET Core, and ASP.NET RESTful APIs. Proficient in database management with SQL Server, T-SQL, Entity Framework, and ADO.NET for data access.</h3>
-
+<h3 align="center">Backend Developer specializing in Node.js & TypeScript | REST APIs | Prisma ORM | PostgreSQL</h3>
 
 <h2 align="left">About Me 🚀</h2>
 
-###
-
 <p align="left">
-💻 Software Developer specialized in building robust web applications using <b>C# and .NET Core</b>.<br><br>
-🌐 Experienced in developing <b>RESTful APIs</b> with <b>ASP.NET Core</b>.<br><br>
-🗄️ Strong expertise in database management using <b>Microsoft SQL Server</b> and <b>Entity Framework</b>.<br><br>
-📊 Skilled in data access with <b>ADO.NET, Entity Framework.</b><br><br>
-📈 Experience in developing <b>project management</b> and <b>investment portfolio</b> systems with a focus on <b>security and performance</b>.<br><br>
-🧩 Passionate about <b>problem-solving</b> and <b>continuous learning</b> in software development and technology.<br><br>
-🚀 Always eager to enhance my skills and stay up to date with the latest tech trends!<br>
+💻 Backend Developer focused on building scalable and secure web applications using <b>Node.js</b> and <b>TypeScript</b>.<br><br>
+🌐 Experienced in designing and implementing <b>RESTful APIs</b> with <b>Express.js</b>.<br><br>
+🗄️ Proficient in database design and management using <b>PostgreSQL</b> and <b>SQL Server</b>.<br><br>
+⚙️ Skilled with <b>Prisma ORM</b>, <b>JWT authentication</b>, and <b>WebSocket</b> for real-time apps.<br><br>
+📊 Hands-on experience in <b>Gym Management Systems</b>, <b>Smart Healthcare Systems</b>, and <b>Private Chat Apps</b>.<br><br>
+🚀 Strong interest in <b>system design</b>, <b>problem-solving</b>, and writing clean, maintainable code.<br><br>
+📈 Always learning and keeping up-to-date with modern backend technologies and best practices.<br>
 </p>
 
 ###
