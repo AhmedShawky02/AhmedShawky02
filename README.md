@@ -10,7 +10,8 @@
 ⚙️ Skilled with <b>Prisma ORM</b>, <b>JWT authentication</b>, and <b>WebSocket</b> for real-time apps.<br><br>
 📊 Hands-on experience in <b>Gym Management Systems</b>, <b>Smart Healthcare Systems</b>, and <b>Private Chat Apps</b>.<br><br>
 🚀 Strong interest in <b>system design</b>, <b>problem-solving</b>, and writing clean, maintainable code.<br><br>
-📈 Always learning and keeping up-to-date with modern backend technologies and best practices.<br>
+📈 Always learning and keeping up-to-date with modern backend technologies and best practices.<br><br>
+🕓 Previously gained experience with <b>.NET Core</b> and <b>C#</b>, which enriched my understanding of enterprise application development.<br>
 </p>
 
 ###
