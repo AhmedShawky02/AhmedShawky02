@@ -25,8 +25,3 @@
 <a href="https://www.facebook.com/profile.php?id=100024417016666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100024417016666" width="40" height="40" /></a>
 <img width="60" />
 <a href="https://www.instagram.com/ahmed_shawky_321/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ahmed_shawky_321/" width="40" height="40" /></a>
-<a href="https://portfolio-5xy8.vercel.app/" target="_blank">
-  <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" viewBox="0 0 16 16">
-    <path d="M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0ZM1.5 8a6.5 6.5 0 0 1 12.743-1.5H10.9a12.72 12.72 0 0 0-1.042-3.17A6.482 6.482 0 0 1 13.743 8a6.482 6.482 0 0 1-3.885 4.67A12.72 12.72 0 0 0 10.9 9.5h3.343A6.5 6.5 0 0 1 1.5 8Zm6.5 6.5a11.2 11.2 0 0 1-1.278-3.5H9.78a11.2 11.2 0 0 1-1.28 3.5Zm0-5H6.222A11.2 11.2 0 0 1 7.5 3.5h1a11.2 11.2 0 0 1 1.278 6Z"/>
-  </svg>
-</a>
