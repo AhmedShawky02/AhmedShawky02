@@ -4,14 +4,11 @@
 <h2 align="left">About Me 🚀</h2>
 
 <p align="left">
-💻 Backend Developer focused on building scalable and secure web applications using <b>Node.js</b> and <b>TypeScript</b>.<br><br>
-🌐 Experienced in designing and implementing <b>RESTful APIs</b> with <b>Express.js</b>.<br><br>
-🗄️ Proficient in database design and management using <b>PostgreSQL</b> and <b>SQL Server</b>.<br><br>
-⚙️ Skilled with <b>Prisma ORM</b>, <b>JWT authentication</b>, and <b>WebSocket</b> for real-time apps.<br><br>
-📊 Hands-on experience in <b>Gym Management Systems</b>, <b>Smart Healthcare Systems</b>, and <b>Private Chat Apps</b>.<br><br>
-🚀 Strong interest in <b>system design</b>, <b>problem-solving</b>, and writing clean, maintainable code.<br><br>
-📈 Always learning and keeping up-to-date with modern backend technologies and best practices.<br><br>
-🕓 Previously gained experience with <b>.NET Core</b> and <b>C#</b>, which enriched my understanding of enterprise application development.<br>
+💻 Backend Developer specialized in <b>Node.js</b> and <b>TypeScript</b>, building scalable and secure web applications.<br><br>
+🌐 Experienced in <b>RESTful APIs</b>, <b>Prisma ORM</b>, <b>JWT</b>, and <b>WebSocket</b>.<br><br>
+🗄️ Strong in database design with <b>PostgreSQL</b> & <b>SQL Server</b>.<br><br>
+📊 Worked on <b>Gym Management</b>, <b>Healthcare</b>, and <b>Chat Apps</b>.<br><br>
+🕓 Previously experienced in <b>.NET Core</b> & <b>C#</b>.<br>
 </p>
 
 ###
